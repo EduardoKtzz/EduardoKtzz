@@ -5,7 +5,7 @@
 Olá! Me chamo Eduardo Klitzke Oliveira, tenho 20 anos e sou do Espírito Santo. Atualmente estou cursando Engenharia de Software na Estácio e me dedicando ao desenvolvimento backend com Java. Sou apaixonado por tecnologia e estou constantemente aprendendo e colocando meus conhecimentos em prática através de projetos pessoais, que compartilho aqui no GitHub.
 
 Meu foco é progredir como desenvolvedor backend, construindo APIs robustas, automatizando processos e buscando sempre boas práticas no código. Você também pode me acompanhar pelo meu LinkedIn, onde compartilho minha trajetória, aprendizados e objetivos profissionais. - "[Eduardo Klitzke](https://www.linkedin.com/in/eduardoklitzkee/)".
-.
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
