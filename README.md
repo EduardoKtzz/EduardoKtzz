@@ -8,7 +8,7 @@ Meu foco é progredir como desenvolvedor backend, construindo APIs robustas, aut
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologiass
 
 <div style="display: inline-block"><br>
   <img align="center" alt="Eduardo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
