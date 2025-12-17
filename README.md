@@ -8,6 +8,11 @@ Meu foco é progredir como desenvolvedor backend, construindo APIs robustas, aut
 
 ---
 
+### 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoKtzz&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoKtzz&layout=compact&theme=tokyonight)
+
 ### 🤖 Linguagens e Tecnologias.
 
 <div style="display: inline-block"><br>
@@ -17,8 +22,3 @@ Meu foco é progredir como desenvolvedor backend, construindo APIs robustas, aut
   <img align="center" alt="Eduardo-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
   <img align="center" alt="Eduardo-Git" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
 </div>
-
-### 📊 Estatísticas
-
-<![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoKtzz&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoKtzz&layout=compact&theme=tokyonight)
