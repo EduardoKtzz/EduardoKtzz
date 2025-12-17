@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Java`**
 
-Olá! Me chamo Eduardo Klitzke Oliveira, tenho 20 anos e sou do Espírito Santo. Atualmente estou cursando Engenharia de Software na Estácio e me dedicando ao desenvolvimento backend com Java. Sou apaixonado por tecnologia e estou constantemente aprendendo e colocando meus conhecimentos em prática através de projetos pessoais, que compartilho aqui no GitHub.
+Olá! Me chamo Eduardo Klitzke Oliveira, tenho 21 anos e sou do Espírito Santo. Atualmente estou cursando Engenharia de Software na Estácio e me dedicando ao desenvolvimento backend com Java. Sou apaixonado por tecnologia e estou constantemente aprendendo e colocando meus conhecimentos em prática através de projetos pessoais, que compartilho aqui no GitHub.
 
 Meu foco é progredir como desenvolvedor backend, construindo APIs robustas, automatizando processos e buscando sempre boas práticas no código. Você também pode me acompanhar pelo meu LinkedIn, onde compartilho minha trajetória, aprendizados e objetivos profissionais. - "[Eduardo Klitzke](https://www.linkedin.com/in/eduardoklitzkee/)".
 
@@ -20,9 +20,5 @@ Meu foco é progredir como desenvolvedor backend, construindo APIs robustas, aut
 
 ### 📊 Estatísticas
 
-<div>
-  <a href="https://github.com/EduardoKtzz">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=EduardoKtzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoKtzz&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
-
+<![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoKtzz&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoKtzz&layout=compact&theme=tokyonight)
