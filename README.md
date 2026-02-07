@@ -8,11 +8,6 @@ Meu foco é progredir como desenvolvedor backend e frontend, construindo APIs ro
 
 ---
 
-### 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoKtzz&show_icons=true&theme=tokyonight&cache_seconds=86400&v=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoKtzz&layout=compact&theme=tokyonight&cache_seconds=86400&v=1)
-
 ### 🤖 Linguagens e Tecnologias.
 
 <div style="display: inline-block"><br>
