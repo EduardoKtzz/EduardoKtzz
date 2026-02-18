@@ -2,9 +2,7 @@
 
 **`Desenvolvedor Fullstack (Node.js - TypeScript - APIs REST - SQL)`**
 
-Olá! Me chamo Eduardo Klitzke Oliveira, tenho 21 anos e sou do Espírito Santo. Atualmente estou cursando Engenharia de Software e me dedicando ao desenvolvimento FullStack com JS/TS e Banco de Dados. Sou apaixonado por tecnologia e estou constantemente aprendendo e colocando meus conhecimentos em prática através de projetos pessoais, que compartilho aqui no GitHub.
-
-Sou desenvolvedor Fullstack com experiência prática na criação de sistemas internos, automação de processos e integração de APIs. Atuo desenvolvendo soluções completas, do backend ao frontend, utilizando JavaScript/TypeScript e banco de dados relacional.
+Olá! Me chamo Eduardo Klitzke Oliveira, tenho 21 anos e sou do Espírito Santo. Atualmente estou cursando Engenharia de Software e me dedicando ao desenvolvimento FullStack com JS/TS e Banco de Dados. Sou desenvolvedor Fullstack com experiência prática na criação de sistemas internos, automação de processos e integração de APIs. Atuo desenvolvendo soluções completas, do backend ao frontend, utilizando JavaScript/TypeScript e banco de dados relacional.
 
 Tenho experiência em:
 
